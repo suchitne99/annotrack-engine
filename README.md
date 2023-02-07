@@ -89,3 +89,5 @@ MIT © [Suchit Negi](https://github.com/suchitne99)
 # Annotrack documentation
 
 <!-- Sample acquisition diagrams -->
+
+<!-- sync 2023-02-07 slot 1 -->
