@@ -91,3 +91,5 @@ MIT © [Suchit Negi](https://github.com/suchitne99)
 <!-- Sample acquisition diagrams -->
 
 <!-- sync 2023-02-07 slot 1 -->
+
+<!-- sync 2023-02-08 slot 1 -->
